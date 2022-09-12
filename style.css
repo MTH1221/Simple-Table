@@ -1,0 +1,41 @@
+/*Head*/
+.tab {
+  border: 2px solid greenyellow;
+  background-color: aqua;
+}
+
+/*Body*/
+table {
+  border: 2px solid greenyellow;
+}
+
+body {
+  background-color: bisque;
+}
+
+img {
+  height: 150px;
+  width: 225px;
+}
+
+#TH {
+  background-color: aqua;
+}
+
+.TT {
+  background-color: yellow;
+}
+
+.TD {
+  background-color: orange;
+}
+
+/*Footer*/
+.TF {
+  background-color: aqua;
+}
+
+.TG {
+  background-color: red;
+}
+
